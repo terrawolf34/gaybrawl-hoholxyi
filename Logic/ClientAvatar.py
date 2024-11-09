@@ -10,12 +10,8 @@ class LogicClientAvatar:
         for x in range(3):
             self.writeLogicLong(self.player.ID)
 
-        if self.player.name == "Guest" and not self.player.name_set:
-            self.writeString("Guest")
-            self.writeVInt(0)
-        else:
-            self.writeString(self.player.name)
-            self.writeVInt(1)
+        self.writeString(self.player.name)
+        self.writeBoolean(self.player.name_set)
 
         self.writeInt(0)
 
