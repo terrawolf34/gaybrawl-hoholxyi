@@ -37,7 +37,7 @@ class LogicDailyData:
             self.writeDataReference(0,0)
 
         self.writeVInt(0)      # Leaderboard Global TID
-        self.writeVInt(50000)  # Trophy Road Reached Icon
+        self.writeVInt(self.player.high_trophies)  # Trophy Road Reached Icon
         self.writeVInt(0)      # Unknown
 
         self.writeUInt8(0)
