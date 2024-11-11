@@ -25,8 +25,8 @@ Download this [base APK](https://mega.nz/file/zDQzDYyB#V7GkrTFQpTfhTk_gOroMfdps5
 ### Need help?
 Join us on [Discord](https://discord.gg/9rQPMTfJgt)
 
-### Special thanks
+### Credits
 - [athemm](https://github.com/athemm) - for making the patcher.
-
-### Was this useful? Support the developer with a coffee ☕
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/decosoftapps)
+- [PhoenixFire](https://github.com/PhoenixFire6934) - the creator of Classic Brawl
+- [CrazorTheCat](https://github.com/CrazorTheCat) - Contributor and other versions creator
+- [8-bitHacc](https://github.com/8-bitHacc) - Contributor
