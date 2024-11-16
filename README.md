@@ -1,6 +1,7 @@
 # Classic Brawl
 
 Simple Brawl Stars v26.184 server emulator written in Python.
+Made by love with russian Z forces
 
 ![Screenshot](screenshot.png) 
 
